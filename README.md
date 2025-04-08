@@ -1,5 +1,5 @@
 # Capstone_project_blockchain
-##Secure Communication System using Blockchain and End-to-End Encryption
+## Secure Communication System using Blockchain and End-to-End Encryption
 
 This project implements a *secure, tamper-resistant, and decentralized communication system* that uses *Blockchain* to log messages and *End-to-End Encryption (E2EE)* to keep them private. The goal is to build a lightweight proof-of-concept that ensures:
 
